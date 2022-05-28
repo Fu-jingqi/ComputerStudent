@@ -1,14 +1,6 @@
-# 一、ComputerStudent
-很多人问我学了哪些东西，这里我专门总结一份资料清单，计算机系统性资料大全,以下内容仅代表个人的学习内容，可能并不够全面。对于下面提到的书籍，如果你身上有足够的钱钱，可以买纸质的书籍。本仓库包括各种优质资料，同时包含一些破解工具等，还请理智使用，若违规与本人无关。希望大家好好学习，低调白嫖、
-
-欢迎提交Issues，点个star，fork到自己仓库是你的最佳保存资料选择，需要哪方面资料可以直接点击下面的提供的链接，你不需要全部下载，因为很大。
-![image](https://user-images.githubusercontent.com/62045791/167303259-3e6c5498-ab41-4fe2-9883-8be11a39bc62.png)
 
 
-
-请到下面第二十个标题中谷歌插件仓库下载支持下载单个文件的谷歌查看，我已经更新。
-
-## 二、计算机基础课
+## 一、计算机基础课
 
 电路课程：[电路](https://www.bilibili.com/video/BV1gE41177GR)
 
@@ -20,7 +12,7 @@
 
 大学离散熟悉：[离散](https://www.bilibili.com/video/BV1cs411H7sz?spm_id_from=333.337.search-card.all.click)
 
-## 三、计算机专业课
+## 二、计算机专业课
 1.  谢希仁的计算机网络：[计算机网络](https://github.com/sfvsfv/ComputerStudent/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E7%AC%AC7%E7%89%88%EF%BC%89-%E8%B0%A2%E5%B8%8C%E4%BB%81.pdf)  视频讲解：[计算机网络](https://www.bilibili.com/video/BV1gV411h7r7?spm_id_from=333.337.search-card.all.click)
 
 视频教程再推荐湖南师大的教程：[计算机网络](https://www.bilibili.com/video/BV1c4411d7jb)
@@ -32,7 +24,7 @@
 4. 操作系统：[点击](https://www.bilibili.com/video/BV1YE411D7nH?spm_id_from=333.337.search-card.all.click)
 
 数据结构也算专业课，看下面这一节
-## 四、C/C++语言基础与数据结构
+## 三、C/C++语言基础与数据结构
 1. 入门到经典实战案例：[C语言](https://github.com/sfvsfv/ComputerStudent/tree/main/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E5%88%B0%E5%85%A5%E9%AD%94%E7%BB%8F%E5%85%B8%E6%A1%88%E4%BE%8B)
 2. 个人学习课程写过的一些算法：[C语言数据结构](https://github.com/sfvsfv/ComputerStudent/tree/main/C%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 3.  严蔚敏版数据结构：[C语言数据结构](https://github.com/sfvsfv/ComputerStudent/tree/main/C%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%EF%BC%88%E4%B8%A5%E8%94%9A%E6%95%8F%EF%BC%89/Answer)
@@ -41,7 +33,7 @@
 6.  算法导论：[算法](https://www.aliyundrive.com/s/TYproSsxHtB)
 7.  C语言程序设计与实例：[基础](https://github.com/sfvsfv/ComputerStudent/blob/main/C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%BA%94%E7%94%A8%E5%AE%9E%E4%BE%8B--1.PDF)
 
-
+## 四、
 
 ## 五、python基础
 
@@ -110,7 +102,7 @@
 基础请参考：https://www.w3cschool.cn/matlab/
 遇到函数不懂问题，请参考官网：https://ww2.mathworks.cn/help/matlab/index.html
 ## 十五、数学建模
-请见另一个仓库，已经总结了很多模型和资料：[数学建模](https://github.com/sfvsfv/meisai)
+模型和资料：[数学建模](https://github.com/sfvsfv/meisai)
 
 ## 十六、python蓝桥杯
 
@@ -156,45 +148,5 @@ Java编译软件eclipse：链接：https://pan.baidu.com/s/115LuYiWtUajEL-ICT71L
 必备单词：[四级单词](https://github.com/sfvsfv/ComputerStudent/blob/main/%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E8%AF%8D%E6%B1%87%E6%89%8B%E5%86%8C%EF%BC%8C%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BF%85%E5%A4%87%E5%AE%9D%E5%85%B8.pdf)
 
 必备单词：[英语六级](https://github.com/sfvsfv/ComputerStudent/blob/main/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%AF%8D%E6%B1%87%20(1).pdf)
-
-
-## 二十、交流群与社交联系
-
-python全栈二群：428335755
-
-数学建模学习交流4群：238608065
-
-C/C++交流群：474372221
-
-SQL数据结构群：696774324
-
-个人微信：hxgsrubxjogxeeag  （如有违权可联系我删除）
-
-个人公众号：玩转大数据
-
-个人知乎：川川菜鸟
-
-个人b站有一些基础教程：[b站](https://space.bilibili.com/591228087)
-
-个人CSDN平台,这里有大部分初学者都有的教程，无论是软件安装还是编程学习都有：[CSDN](https://blog.csdn.net/weixin_46211269)
-
-## 二十一、谷歌插件
-
-一些辅助性的破解与便捷的谷歌插件，跳转仓库：[Chrome](https://github.com/sfvsfv/chrome)
-
-## 二十二、白嫖
-全网付费视频高清播放：https://www.ysgc.tv/
-
-在线编辑word文档，便捷效率，还可以多人协作：https://docs.google.com/
-
-免费白嫖全球的书籍，数字图书馆：https://zh.de1lib.org/ 下载好后需要使用上面分享的万能文档转换转换
-
-## 二十三、赞助
-
-你的赞助是我继续分享的动力：
-
-![image](https://user-images.githubusercontent.com/62045791/161431674-2f9689cc-e404-41f7-b355-10f3d134389e.png)
-
-
 
 
